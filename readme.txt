@@ -1,1 +1,2 @@
 git first test.
+Creating a new branch is quick.
